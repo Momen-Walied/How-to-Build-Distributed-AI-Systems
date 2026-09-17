@@ -1,0 +1,2 @@
+# Use a PyTorch build compatible with your CUDA environment.
+torch>=2.2
